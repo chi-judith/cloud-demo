@@ -1,3 +1,14 @@
+# Ignore system and temporary files
+.bash_history
+.bash_logout
+.gitconfig
+.lesshst
+.motd_shown
+.profile
+.sudo_as_admin_successful
+bashrc
+viminfo
+"eval \"$(ssh-agent -s)\""
 # Ignore system files and directories
 .bashrc
 .viminfo
