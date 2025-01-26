@@ -32,3 +32,4 @@ documents/
 # Ignore other temp files
 *.log
 *.pub
+eval*
