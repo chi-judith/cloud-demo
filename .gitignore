@@ -1,0 +1,23 @@
+# Ignore system files and directories
+.bashrc
+.viminfo
+.cache/
+.ssh/
+*.pub
+
+# Ignore temp files
+*.log
+
+# Ignore specific directories
+cloud-beginner/
+documents/
+# Ignore cache directory
+.cache/
+
+# Ignore system files
+.bashrc
+.viminfo
+
+# Ignore other temp files
+*.log
+*.pub
